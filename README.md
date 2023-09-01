@@ -12,4 +12,6 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 3:](https://github.com/Husainbw786/100-days-of-code-Python/tree/main/Day03) Control Flow and Logical Operators
 - [Day 4:](https://github.com/Husainbw786/100-days-of-code-Python/tree/main/Day04) Randomisation and Python Lists
 - [Day 5:](https://github.com/Husainbw786/100-days-of-code-Python/tree/main/Day05) Python Loops
+- [Day 6:](https://github.com/Husainbw786/100-days-of-code-Python/tree/main/Day06) Python Functions & Karel
+- [Day 7:](https://github.com/Husainbw786/100-days-of-code-Python/tree/main/Day07) Hangman game
 
