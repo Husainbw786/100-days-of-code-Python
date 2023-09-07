@@ -28,3 +28,6 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 17:](https://github.com/Husainbw786/100-days-of-code-Python/tree/main/Day17) The Quiz Project & The Benefits of OOP
 - [Day 18:](https://github.com/Husainbw786/100-days-of-code-Python/tree/main/Day18) Turtle & the Graphical User Interface (GUI)
 - [Day 19:](https://github.com/Husainbw786/100-days-of-code-Python/tree/main/Day19) Instances, State and Higher Order Functions
+- [Day 20:](https://github.com/Husainbw786/100-days-of-code-Python/tree/main/Day20) Build the Snake Game Part 1: Animation & Coordinates
+- [Day 21:](https://github.com/Husainbw786/100-days-of-code-Python/tree/main/Day21) Build the Snake Game Part 2: Inheritance & List Slicing
+- [Day 22:](https://github.com/Husainbw786/100-days-of-code-Python/tree/main/Day22) Build Pong: The Famous Arcade Game
